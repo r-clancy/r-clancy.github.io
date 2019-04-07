@@ -1,0 +1,19 @@
+body {
+    background-color: #EEE;
+}
+
+* {
+    font-family: "Fira Sans", sans-serif;
+}
+
+.card-title {
+    border-bottom: 2px solid #DDD;
+}
+
+.navbar {
+    background-color: #00A1E1;
+}
+
+.card, #header {
+    margin-bottom: 2em;
+}
